@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Management & Engineering College",
+  "description": "Official institutional portal of Infinity Management & Engineering College (IMEC), Sagar - approved by AICTE, affiliated to RGPV Bhopal. Offering B.Tech, M.Tech, MBA, and Polytechnic Diploma programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
